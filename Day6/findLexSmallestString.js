@@ -23,7 +23,7 @@ var findLexSmallestString = function (s, a, b) {
 
     let q = [s];
     let seen = new Set();
-
+    //look for all combination
     while (q.length) {
 
         let d = q.pop();
