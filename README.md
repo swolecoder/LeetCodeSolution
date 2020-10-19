@@ -18,7 +18,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |Day 4| [LRU]() | [javascript]()|[:memo:]()|Medium|
 
-
 |Day 5| [422. Valid Word Square](https://leetcode.com/problems/valid-word-square/) | [javascript]()|[:memo:](https://leetcode.com/problems/valid-word-square/)|Easy|
 
 |Day 6| [1625. Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [javascript]()|[:memo:](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)|Medium|
