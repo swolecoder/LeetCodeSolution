@@ -52,7 +52,6 @@ class DoublyLL {
         if (this.length == 0) {
             return new Error("No Data in Doubly LL")
         }
-
         // if only one data
         if (this.length == 1) {
             this.head = null;
@@ -105,6 +104,10 @@ class DoublyLL {
         this.length++;
         return this;
     }
+
+    //remove
+   remove(val){}
+
 
 }
 
