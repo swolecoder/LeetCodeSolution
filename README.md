@@ -26,3 +26,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 7| [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [javascript]()|[:memo:](https://leetcode.com/problems/concatenated-words/)|Hard|
 
 |Day 8| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [javascript]()|[:memo:](https://leetcode.com/problems/merge-sorted-array/)|Easy|
+
+|Day 9| [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [javascript]()|[:memo:](https://leetcode.com/problems/graph-connectivity-with-threshold/)|Hard|
