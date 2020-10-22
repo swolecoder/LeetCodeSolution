@@ -28,3 +28,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 8| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [javascript]()|[:memo:](https://leetcode.com/problems/merge-sorted-array/)|Easy|
 
 |Day 9| [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [javascript]()|[:memo:](https://leetcode.com/problems/graph-connectivity-with-threshold/)|Hard|
+
+|Day 10| [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [javascript]()|[:memo:](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|Medium|
