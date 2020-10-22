@@ -1,5 +1,13 @@
 class maxSumDivThree {
-    // Approach 1
+    /*
+    Approach 1
+    Add all together, if sum%3==0, return sum.
+    if sum%3==1, remove the smallest number which has n%3==1.
+    if sum%3==2, remove the smallest number which has n%3==2.
+
+    one pass, and we need to keep the smallest two numbers that have n1%3==1 and n2%3==2.
+    
+    */
     public int maxSumDivThree(int[] nums) {
         int res = 0, leftOne = 20000, leftTwo = 20000;
         for(int n:nums){
