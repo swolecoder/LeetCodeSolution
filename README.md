@@ -30,3 +30,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 9| [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [javascript]()|[:memo:](https://leetcode.com/problems/graph-connectivity-with-threshold/)|Hard|
 
 |Day 10| [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [javascript]()|[:memo:](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|Medium|
+
+|Day 11| [Serialize and Deserialize array of string](https://www.geeksforgeeks.org/serialize-deserialize-array-string/) | [javascript]()|[:memo:](https://www.geeksforgeeks.org/serialize-deserialize-array-string/)|Medium/Hard|
