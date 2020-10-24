@@ -41,11 +41,9 @@ var numberToWords = function (num) {
             case (n < 100): {
                 return (underHundred[parseInt(n / 10)] + " " + helper(n % 10)).trim()
             }
-            //1000
             case (n < 1000): {
                 return (numberToWords(parseInt(n / 100)) + " Hundred " + helper(n % 100)).trim()
             }
-            //million
             case (n < 1000000): {
                 return (numberToWords(parseInt(n / 1000)) + " Thousand " + helper(n % 1000)).trim()
             }
