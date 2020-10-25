@@ -34,3 +34,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 11| [Serialize and Deserialize array of string](https://www.geeksforgeeks.org/serialize-deserialize-array-string/) | [javascript]()|[:memo:](https://www.geeksforgeeks.org/serialize-deserialize-array-string/)|Medium/Hard|
 
 |Day 12| [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [javascript]()|[:memo:](https://leetcode.com/problems/integer-to-english-words/)|Hard|
+
+
+|Day 13| [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [javascript]()|[:memo:](https://leetcode.com/problems/add-bold-tag-in-string/)|Medium|
