@@ -37,3 +37,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 
 |Day 13| [616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [javascript]()|[:memo:](https://leetcode.com/problems/add-bold-tag-in-string/)|Medium|
+
+
+|Day 14| [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [javascript]()|[:memo:](https://leetcode.com/problems/evaluate-division/)|Medium|
