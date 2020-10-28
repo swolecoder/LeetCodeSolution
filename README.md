@@ -40,3 +40,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 
 |Day 14| [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [javascript]()|[:memo:](https://leetcode.com/problems/evaluate-division/)|Medium|
+
+|Day 15| [Number of flips to make binary string alternate](https://www.geeksforgeeks.org/number-flips-make-binary-string-alternate/) | [javascript]()|[:memo:](https://www.geeksforgeeks.org/number-flips-make-binary-string-alternate/)|Easy/Medium|
