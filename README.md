@@ -44,3 +44,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 15| [Number of flips to make binary string alternate](https://www.geeksforgeeks.org/number-flips-make-binary-string-alternate/) | [javascript]()|[:memo:](https://www.geeksforgeeks.org/number-flips-make-binary-string-alternate/)|Easy/Medium|
 
 |Day 16| [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [javascript]()|[:memo:](https://leetcode.com/problems/find-duplicate-file-in-system/)|Medium|
+
+|Day 17| [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [javascript]()|[:memo:](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|Easy|
