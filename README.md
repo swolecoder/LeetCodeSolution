@@ -1,5 +1,5 @@
 # SDE Interview
-# :pencil2: Leetcode Solutions with javascript
+# :pencil2: Leetcode Solutions with javascript/c++
 
 If you have any question, please give me an [issue](https://github.com/swolecoder/365DaysOfAlgorithm/issues).
 
