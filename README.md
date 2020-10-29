@@ -45,4 +45,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |Day 16| [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [javascript]()|[:memo:](https://leetcode.com/problems/find-duplicate-file-in-system/)|Medium|
 
-|Day 17| [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [javascript]()|[:memo:](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|Easy|
+|Day 17| [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|Easy|
