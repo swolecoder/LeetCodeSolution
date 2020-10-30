@@ -48,3 +48,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 17| [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|Easy|
 
 |Day 18| [809. Expressive Words](https://leetcode.com/problems/expressive-words/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/expressive-words/)|Medium|
+
+
+|Day 19| [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|Medium|
