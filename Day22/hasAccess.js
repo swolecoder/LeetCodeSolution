@@ -11,7 +11,7 @@ function hasAccess(path, dir, hasAccess) {
     return false;
 }
 
-//parent to child
+//child to parent
 let map = new Map()
 map.set("A", null)
 map.set("B", "A")
