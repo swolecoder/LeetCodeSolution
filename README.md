@@ -55,3 +55,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 20| [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|Medium|
 
 |Day 21| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/pascals-triangle/)|Easy|
+
+|Day 22| [Permissions in a File System](https://leetcode.com/discuss/interview-question/417262/Dropbox-or-Phone-Screen-or-Permissions-in-a-File-System) | [javascript/ c++]()|[:memo:](https://leetcode.com/discuss/interview-question/417262/Dropbox-or-Phone-Screen-or-Permissions-in-a-File-System)|Medium|

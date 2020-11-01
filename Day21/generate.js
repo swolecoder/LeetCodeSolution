@@ -18,6 +18,5 @@ var generate = function (numRows) {
 
         }
     }
-
     return res;
 };
