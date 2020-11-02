@@ -59,3 +59,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 22| [Permissions in a File System](https://leetcode.com/discuss/interview-question/417262/Dropbox-or-Phone-Screen-or-Permissions-in-a-File-System) | [javascript/ c++]()|[:memo:](https://leetcode.com/discuss/interview-question/417262/Dropbox-or-Phone-Screen-or-Permissions-in-a-File-System)|Medium|
 
 |Day 23| [Longest increasing subarray](https://www.geeksforgeeks.org/longest-increasing-subarray/) | [javascript/ c++]()|[:memo:](https://www.geeksforgeeks.org/longest-increasing-subarray/)|Medium|
+
+|Day 24| [415. Add Strings](https://leetcode.com/problems/add-strings/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/add-strings/)|Medium|
