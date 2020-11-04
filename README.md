@@ -65,3 +65,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 25| [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/basic-calculator-ii/)|Medium|
 
 |Day 26| [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/sort-colors/)|Medium|
+
+|Day 27| [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|
