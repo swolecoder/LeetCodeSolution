@@ -72,3 +72,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 
 |Day 29| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/combination-sum/)|Medium|
+
+|Day 30| [379. Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/design-phone-directory/)|Medium|
