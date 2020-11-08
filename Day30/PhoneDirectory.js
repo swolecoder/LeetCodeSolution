@@ -44,4 +44,4 @@ PhoneDirectory.prototype.release = function (number) {
  * var param_1 = obj.get()
  * var param_2 = obj.check(number)
  * obj.release(number)
- */
+ */Do
