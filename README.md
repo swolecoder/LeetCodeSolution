@@ -80,3 +80,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 32| [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [javascript/ c++]()|[:memo:](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/)|Medium|
 
 |Day 33| [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/validate-stack-sequences/)|Medium|
+
+
