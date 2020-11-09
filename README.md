@@ -76,3 +76,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 30| [379. Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/design-phone-directory/)|Medium|
 
 |Day 31| [66. Plus One](https://leetcode.com/problems/plus-one/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/plus-one/)|Medium|
+
+|Day 32| [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [javascript/ c++]()|[:memo:](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/)|Medium|
+
+|Day 33| [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/validate-stack-sequences/)|Medium|
