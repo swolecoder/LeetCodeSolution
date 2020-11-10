@@ -81,4 +81,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |Day 33| [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/validate-stack-sequences/)|Medium|
 
+|Day 34| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|
+
 
