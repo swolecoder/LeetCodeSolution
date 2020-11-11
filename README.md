@@ -83,4 +83,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |Day 34| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|
 
-
+|Day 35| [Arrival and Departure Time of Vertices in DFS](https://www.techiedelight.com/arrival-departure-time-vertices-dfs/) | [javascript/ c++]()|[:memo:](https://www.techiedelight.com/arrival-departure-time-vertices-dfs/)|Medium|
