@@ -85,4 +85,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |Day 35| [Arrival and Departure Time of Vertices in DFS](https://www.techiedelight.com/arrival-departure-time-vertices-dfs/) | [javascript/ c++]()|[:memo:](https://www.techiedelight.com/arrival-departure-time-vertices-dfs/)|Medium|
 
-|Day 36| [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [javascript/ c++]()|[:memo:](https://www.techiedelight.com/arrival-departure-time-vertices-dfs/)|Easy|
+|Day 36| [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/degree-of-an-array/)|Easy|
+
+|Day 37| [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/to-lower-case/)|Easy|
