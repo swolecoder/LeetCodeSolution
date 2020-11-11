@@ -27,7 +27,6 @@ function Graph(arr, N) {
     }
 
 
-
     function dfs(v, time) {
         time = time + 1;
 
@@ -39,8 +38,6 @@ function Graph(arr, N) {
                 if (!visited[child]) {
                     time = dfs(child, time)
                 }
-
-
         }
         time = time + 1;
         departure[v] = time;
