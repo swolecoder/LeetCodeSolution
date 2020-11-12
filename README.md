@@ -88,3 +88,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 36| [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/degree-of-an-array/)|Easy|
 
 |Day 37| [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/to-lower-case/)|Easy|
+
+|Day 38| [1370. Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/increasing-decreasing-string/)|Easy|
