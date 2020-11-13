@@ -90,3 +90,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 37| [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/to-lower-case/)|Easy|
 
 |Day 38| [1370. Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/increasing-decreasing-string/)|Easy|
+
+|Day 39| [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/build-an-array-with-stack-operations/)|Easy|
