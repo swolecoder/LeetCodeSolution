@@ -92,3 +92,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 38| [1370. Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/increasing-decreasing-string/)|Easy|
 
 |Day 39| [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/build-an-array-with-stack-operations/)|Easy|
+
+|Day 40| [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/find-the-town-judge/)|Medium|
