@@ -98,3 +98,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 41| [690. Employee Importance](https://leetcode.com/problems/employee-importance/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/employee-importance/)|Easy|
 
 |Day 42| [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|Easy|
+
+
+|Day 43| [100. Same Tree](https://leetcode.com/problems/same-tree/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/same-tree/)|Easy|
