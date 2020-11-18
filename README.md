@@ -107,3 +107,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 45| [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/spiral-matrix-ii/)|Medium|
 
 |Day 46| [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|Medium|
+
+
+|Day 47| [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|Medium|
