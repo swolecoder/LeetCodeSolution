@@ -115,3 +115,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 48| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/product-of-array-except-self/)|Medium|
 
 |Day 49| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/unique-paths/)|Medium|
+
+|Day 50| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|
