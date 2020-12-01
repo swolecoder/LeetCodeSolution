@@ -117,3 +117,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 49| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/unique-paths/)|Medium|
 
 |Day 50| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|
+
+
+|Day 51| [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)|Medium|
+
+|Day 52| [Find shortest safe route in a field with sensors present](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/) | [javascript]()|[:memo:](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/)|Medium|
