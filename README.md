@@ -122,3 +122,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 51| [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [javascript/ c++]()|[:memo:](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)|Medium|
 
 |Day 52| [Find shortest safe route in a field with sensors present](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/) | [javascript]()|[:memo:](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/)|Medium|
+
+|Day 53| [Find shortest safe route in a field with sensors present](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/) | [javascript]()|[:memo:](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/)|Medium|
+
+|Day 54| [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [javascript]()|[:memo:](https://leetcode.com/problems/shortest-word-distance/)|Easy|
