@@ -126,3 +126,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 53| [Find shortest safe route in a field with sensors present](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/) | [javascript]()|[:memo:](https://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/)|Medium|
 
 |Day 54| [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [javascript]()|[:memo:](https://leetcode.com/problems/shortest-word-distance/)|Easy|
+
+|Day 55| [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [javascript]()|[:memo:](https://leetcode.com/problems/excel-sheet-column-number/)|Easy|
