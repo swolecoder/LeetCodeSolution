@@ -128,3 +128,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 54| [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [javascript]()|[:memo:](https://leetcode.com/problems/shortest-word-distance/)|Easy|
 
 |Day 55| [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [javascript]()|[:memo:](https://leetcode.com/problems/excel-sheet-column-number/)|Easy|
+
+|Day 56| [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [javascript]()|[:memo:](https://leetcode.com/problems/linked-list-random-node/)|Easy|
