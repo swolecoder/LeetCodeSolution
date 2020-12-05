@@ -130,3 +130,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 55| [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [javascript]()|[:memo:](https://leetcode.com/problems/excel-sheet-column-number/)|Easy|
 
 |Day 56| [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [javascript]()|[:memo:](https://leetcode.com/problems/linked-list-random-node/)|Easy|
+
+|Day 57| [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [javascript]()|[:memo:](https://leetcode.com/problems/the-kth-factor-of-n/)|Medium|
