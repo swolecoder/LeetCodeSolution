@@ -132,3 +132,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 56| [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [javascript]()|[:memo:](https://leetcode.com/problems/linked-list-random-node/)|Easy|
 
 |Day 57| [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [javascript]()|[:memo:](https://leetcode.com/problems/the-kth-factor-of-n/)|Medium|
+
+|Day 58| [117. Populating Next Right Pointers in Each Node II](hhttps://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [javascript]()|[:memo:](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|Medium|
