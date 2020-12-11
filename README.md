@@ -136,3 +136,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 58| [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [javascript]()|[:memo:](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|Medium|
 
 |Day 59| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [javascript]()|[:memo:](https://leetcode.com/problems/two-sum/)|Easy|
+
+|Day 60| [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [javascript]()|[:memo:](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|Medium|
