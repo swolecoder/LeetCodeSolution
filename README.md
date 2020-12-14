@@ -142,3 +142,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 61| [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [javascript]()|[:memo:](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|Medium|
 
 |Day 62| [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [javascript]()|[:memo:](https://leetcode.com/problems/burst-balloons/)|Hard|
+
+|Day 63| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [javascript]()|[:memo:](https://leetcode.com/problems/palindrome-partitioning/)|Medium|
