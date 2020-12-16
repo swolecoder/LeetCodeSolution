@@ -148,3 +148,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 64| [131. Palindrome Partitioning](https://leetcode.com/problems/squares-of-a-sorted-array/) | [javascript]()|[:memo:](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|
 
 |Day 65| [1485. Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [javascript]()|[:memo:](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)|Medium|
+
+|Day 66| [1485. Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [javascript]()|[:memo:](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)|Medium|
+
+|Day 67| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [javascript]()|[:memo:](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|
