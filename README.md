@@ -154,3 +154,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 67| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [javascript]()|[:memo:](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|
 
 |Day 68| [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | [javascript]()|[:memo:](https://leetcode.com/problems/4sum-ii/)|Medium|
+
+
+|Day 69| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [javascript]()|[:memo:](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|
