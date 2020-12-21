@@ -163,3 +163,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 71| [1694. Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [javascript]()|[:memo:](https://leetcode.com/problems/reformat-phone-number/)|Easy|
 
 |Day 72| [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [javascript]()|[:memo:](https://leetcode.com/problems/decoded-string-at-index/)|Easy|
+
+|Day 73| [910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [javascript]()|[:memo:](https://leetcode.com/problems/smallest-range-ii/)|Easy|
