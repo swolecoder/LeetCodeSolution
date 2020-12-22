@@ -165,3 +165,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 72| [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [javascript]()|[:memo:](https://leetcode.com/problems/decoded-string-at-index/)|Easy|
 
 |Day 73| [910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [javascript]()|[:memo:](https://leetcode.com/problems/smallest-range-ii/)|Easy|
+
+|Day 74| [1602. Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [javascript]()|[:memo:](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)|Medium|
