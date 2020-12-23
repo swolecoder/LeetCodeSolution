@@ -169,3 +169,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 74| [1602. Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [javascript]()|[:memo:](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)|Medium|
 
 |Day 75| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [javascript]()|[:memo:](https://leetcode.com/problems/balanced-binary-tree/)|Easy|
+
+
+|Day 76| [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [javascript]()|[:memo:](https://leetcode.com/problems/next-greater-element-iii/)|Medium|
