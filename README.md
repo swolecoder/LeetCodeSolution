@@ -172,3 +172,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 
 |Day 76| [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [javascript]()|[:memo:](https://leetcode.com/problems/next-greater-element-iii/)|Medium|
+
+
+|Day 77| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [javascript]()|[:memo:](https://leetcode.com/problems/swap-nodes-in-pairs/)|Medium|
