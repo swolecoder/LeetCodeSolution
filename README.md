@@ -175,3 +175,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 
 |Day 77| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [javascript]()|[:memo:](https://leetcode.com/problems/swap-nodes-in-pairs/)|Medium|
+
+|Day 78| [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [javascript]()|[:memo:](https://leetcode.com/problems/diagonal-traverse/)|Medium|
