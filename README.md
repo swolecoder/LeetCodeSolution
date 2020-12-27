@@ -179,3 +179,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 78| [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [javascript]()|[:memo:](https://leetcode.com/problems/diagonal-traverse/)|Medium|
 
 |Day 79| [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | [javascript]()|[:memo:](https://leetcode.com/problems/decode-ways/)|Medium|
+
+|Day 80| [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [javascript]()|[:memo:](https://leetcode.com/problems/jump-game-iv/)|Hard|
