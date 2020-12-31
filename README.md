@@ -185,3 +185,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 81| [754. Reach a Number](https://leetcode.com/problems/reach-a-number/) | [javascript]()|[:memo:](https://leetcode.com/problems/reach-a-number/)|Medium|
 
 |Day 82| [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [javascript]()|[:memo:](https://leetcode.com/problems/game-of-life/)|Medium|
+
+|Day 83| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [javascript]()|[:memo:](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Medium|
