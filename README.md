@@ -205,3 +205,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |Day 91| [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [javascript]()|[:memo:](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|Medium|
 
 |Day 92| [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [javascript]()|[:memo:](https://leetcode.com/problems/boats-to-save-people/)|Medium|
+
+
+|Day 93| [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [javascript]()|[:memo:](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|Medium|
