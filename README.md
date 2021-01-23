@@ -208,3 +208,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 
 |Day 93| [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [javascript]()|[:memo:](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|Medium|
+
+|Day 94| [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [javascript]()|[:memo:](https://leetcode.com/problems/sort-integers-by-the-power-value/)|Medium|
+
+|Day 95| [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [javascript]()|[:memo:](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|Medium|
