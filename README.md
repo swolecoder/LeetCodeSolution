@@ -1,4 +1,4 @@
-# SDE Interview
+# SDE Interview : README- Not up to date
 # :pencil2: Leetcode Solutions with javascript/c++
 
 If you have any question, please give me an [issue](https://github.com/swolecoder/365DaysOfAlgorithm/issues).
